@@ -44,6 +44,7 @@ public class LAB5 {
 			break;
 		case 'b':
 			l = new BinTree();
+			break;
 		case 't':
 			l = new Trie();
 			break;
