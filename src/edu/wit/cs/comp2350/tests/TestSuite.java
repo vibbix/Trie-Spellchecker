@@ -6,9 +6,9 @@ import org.junit.runners.Suite;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
         LAB5TestCase.class,
-        BinTreeTestCase.class,
-        HashTableTestCase.class,
-        LinearTestCase.class,
+//        BinTreeTestCase.class,
+//        HashTableTestCase.class,
+//        LinearTestCase.class,
 })
 
 public class TestSuite {
