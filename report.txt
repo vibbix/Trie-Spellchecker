@@ -1,0 +1,14 @@
+Score: 90
+
+inefficient getSugg method
+
+== junit ==
+edu.wit.cs.comp2350.grading.LAB5Grading#test10000Suggestions: +10
+edu.wit.cs.comp2350.grading.LAB5Grading#test10000Contains: +30
+edu.wit.cs.comp2350.grading.LAB5Grading#testSmallSuggestions: +10
+edu.wit.cs.comp2350.grading.LAB5Grading#testSmallContains: +30
+edu.wit.cs.comp2350.grading.LAB5Grading#testSOWPODSSuggestions: +0
+edu.wit.cs.comp2350.grading.LAB5Grading#testSOWPODSContains: +10
+
+== ontime ==
+ontime: +0
